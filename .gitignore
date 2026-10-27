@@ -7,3 +7,4 @@ git-complete-teammate/
 node_modules/
 __pycache__/
 git-complete-teammate/
+dummy.env
