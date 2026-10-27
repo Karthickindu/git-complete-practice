@@ -1,0 +1,9 @@
+git-complete-teammate/
+
+.env
+*.log
+*.tmp
+*.temp
+node_modules/
+__pycache__/
+git-complete-teammate/
